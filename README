@@ -1,0 +1,18 @@
+Luis Roberto Carrillo Chacon  200950935
+
+Calculadora en consola probada en Ubuntu 12.04
+para utilizarla tener instalado Java jdk6
+
+abrir consola
+ir a la carpeta donde se encuentra los archivos y correr el script
+./script.sh
+
+si no los tiene darle permisos para ejecutar.
+chmod +x script.sh
+
+Modo de uso:
+se ingresa operandos y operador uno a uno, se asume que se ingresan correctamente
+se puede ingresar operando operador operando o se puede ingresar operador operando
+y se utilizara el resultado anterior como operando1
+
+ para salir escribir exit despues del simbolo >
